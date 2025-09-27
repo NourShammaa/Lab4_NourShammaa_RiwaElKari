@@ -5,8 +5,7 @@ A project combining Tkinter and PyQt documented implementations
 Two desktop UIs that use the same database helper:
 - **PyQt** app: `pyqt_app_database.py`
 - **Tkinter** app: `tkinter_app_database.py`
-- **DB helper** used by both: `database.py` (or `school_gui_db.py` in the PyQt version; keep only one final helper and update imports accordingly)
-
+- **DB helper** used by both: `database.py` 
 
 ---
 
