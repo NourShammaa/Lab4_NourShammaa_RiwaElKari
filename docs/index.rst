@@ -15,4 +15,6 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   modules
+   database
+   models
+   tkinter_app_database
